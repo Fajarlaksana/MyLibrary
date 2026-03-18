@@ -318,15 +318,6 @@ git push origin feature/nama-fitur
 
 ---
 
-## 📄 Lisensi / License
-
-**🇮🇩** Didistribusikan di bawah lisensi MIT. Lihat [`LICENSE`](LICENSE) untuk informasi lebih lanjut.
-
-**🇬🇧** Distributed under the MIT License. See [`LICENSE`](LICENSE) for more information.
-
-<br/>
-
----
 
 <div align="center">
 
